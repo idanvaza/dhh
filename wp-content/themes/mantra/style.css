@@ -1211,7 +1211,7 @@ article.format-chat h3.entry-format, article.format-aside h3.entry-format { disp
 
 #content img {
     margin-left: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 4px;
 	height: auto;
 	max-width:100%;
 	-webkit-box-sizing:border-box;
