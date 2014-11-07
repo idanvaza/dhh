@@ -293,6 +293,10 @@ hr {
 	color: #333;
 }
 
+#content br {
+    clear: none !important;
+}
+
 #content p{
 	margin-bottom: 1.5em;
 }
