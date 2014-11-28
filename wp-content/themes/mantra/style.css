@@ -1063,6 +1063,16 @@ article.format-chat h3.entry-format, article.format-aside h3.entry-format { disp
 	margin: 0 auto 20px;
 }
 
+@media screen\0 {
+	.gallery-columns-3.gallery-size-thumbnail{
+		width: 61%; /* IE8 and IE9 */
+	}
+	.gallery-item{
+		width: 150px;
+		margin-left: 10px;
+	}
+}
+
 .gallery-columns-1 .gallery-item,
 .gallery-columns-2 .gallery-item,
 .gallery-columns-3 .gallery-item {
